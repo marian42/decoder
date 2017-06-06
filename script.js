@@ -50,6 +50,5 @@ function update() {
 
 inputfield.addEventListener("input", update);
 outputfield.addEventListener("input", update);
-update();
 inputfield.focus();
 inputfield.select();
